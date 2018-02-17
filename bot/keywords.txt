@@ -1,0 +1,32 @@
+#Generic responses
+#-----------------
+hello,greetings,hi bot,hi there,hi all=Hello, <NAME>!
+has entered the room=Welcome, <NAME>! For a list of chat commands please type "/help". For more information about Widener University Computer Science please feel free to ask me any question you'd like!
+thanks,thank you=You're welcome, <NAME>!
+bye,goodbye,cya,seeya,see ya,see you=Goodbye, <NAME>!
+hah,heh,lol,rofl,laugh,laf=How very funny, <NAME>!
+how are you,hows it goin,how is it goin=I'm doing well! Thanks for asking, <NAME>.
+whats up,what is up,sup=Not much, <NAME>! You?
+neat,cool,awesome,sweet,rad,thats good,gnarly=Gnarly, <NAME>!
+who made bot,who made you,who created you,who created bot,creator,designer=I was designed and developed by Evan Lennick for his senior project during the Summer of 2004.
+i love you,i love bot=I love you too, <NAME>!
+
+#School information responses
+#----------------------------
+widener,school,university,college=<NAME>, For information on specific topics about Widener University, merely ask me out loud in this chat room or check the main website at: http://www.widener.edu
+computer science,comp sci,information systems,csci,mis=<NAME>, For information about Widener's Computer Science and Information Science degrees, ask me questions or check the Computer Science website at: http://cs.widener.edu
+help=For a list of commands type "/help". For information about the Widener Computer Science department, merely ask me what you would like to know!
+prof,faculty,teacher,staff=<NAME>, click here for information on the Widener University Computer Science faculty: http://cs.widener.edu/Faculty/faculty.php
+directions,get to widener,travel,map,locat,campus,where is widener=Widener University is located in Chester, PA. For directions to the main campus, click here: http://www.widener.edu/?pageId=1678
+schedule,curric,class=<NAME>, click here for information on the Widener University Computer Science curriculum: http://cs.widener.edu/Curriculum/curriculum.php
+apply,admis,admittance,join=<NAME>, click here for information on specific Widener University admissions: http://www.widener.edu/?pageId=71
+lab,facilit=<NAME>, click here for information on specific the Widener University Computer Science lab: http://cs.widener.edu/Facility/facility.php
+food,cafeteria,dining,eat=<NAME>, click here for information on Widener University's dining services: http://www.ecampusservices.com/default.asp?Account=500083600
+cost,financial aid,scholarship=<NAME>, click here for information on the cost of going to Widener University and financial assisstance you can recieve: http://www.widener.edu/?pageId=70
+news,update,headline=<NAME>, click here for recent news about Widener University: http://www.widener.edu/?pageId=73
+calendar,date=<NAME>, click here for the Widener University master calendar: http://www.widener.edu/?pageId=78
+law,harrisburg,harrisberg,wilmington,delaware,law=<NAME>, click here for information on Widener University School of Law located in Wilmington, DE and Harrisburg, PA: http://www.law.widener.edu/
+student life,organization=<NAME>, click here for information about student life and student organizations at Widener: http://www.widener.edu/?pageId=8
+residence life,dorm,housing=<NAME>, click here for information about residence life: http://www.widener.edu/?pageId=56
+book,text,store=<NAME>, click here for information about the Widener bookstore (They have much more than just books!): http://www.cbamatthews.com/widen/
+health,medic,nurs=<NAME>, click here for information about Widener University Health Services: http://www.widener.edu/?pageId=320

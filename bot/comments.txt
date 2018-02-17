@@ -1,0 +1,11 @@
+The Widener University Computer Science lab was just refurnished this summer! We have twenty-four new Pentium 4 computers with flatscreen LCD monitors running both Linux Slackware 9.1 and Windows XP.
+For a virtual tour of Kirkbride Hall and the Computer Science laboratory, click here: http://cs.widener.edu/Virttour/virt_tour1.php
+This chat applet, server and even myself the chat bot were all created as a senior project by a Widener University student!
+For a list of Widener University Computer Science alumni and where they have gone on to work, click here: http://cs.widener.edu/Alumni/alumni.php
+Widener University has been around for nearly 200 years! For information on our rich history, click here: http://www.widener.edu/?pageId=2949
+Widener University Computer Science offers classes in Parallel Computing (CSCI 349 and CSCI 350) and the Computer Science lab houses a Beofwolf cluster for student use!
+Interested in applying to Widener University as a Computer Science major? Click here for prospective student information: http://cs.widener.edu/ProspectiveStudent/prospective_student.php
+Want to know whats going on in the Widener Computer Science world? Check out our events calendar here: http://cs.widener.edu/Calendar/calendar.php
+Want to see pictures of Computer Science students and staff during our many notable events? Click here for the 2004 online yearbook: http://cs.widener.edu/Yearbook/yearbook.php
+Feel free to ask me any questions you have about Widener University and it's Computer Science department. I am programmed to respond to your inquires!
+

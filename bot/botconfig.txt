@@ -1,0 +1,19 @@
+#Configuration file for HalBot
+#-----------------------------
+#Name of the bot
+BotName=WUCS-Bot
+#
+#IP of the server to connect to
+ServerIp=127.0.0.1
+#
+#Port of the server to connect o
+ServerPort=4545
+#
+#Location of the comments file
+CommentsFile=comments.txt
+#
+#Time delay between the output of random comments
+CommentDelay=60
+#
+#Location of the keywords file
+KeywordsFile=keywords.txt
